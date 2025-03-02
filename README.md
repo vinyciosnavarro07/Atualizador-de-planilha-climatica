@@ -32,12 +32,12 @@ Este projeto busca informações de previsão do tempo, como temperatura e umida
 
 4. Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd Atualizador-de-planilha-climatica
     ```
 
 5. Execute o script:
     ```bash
-    python previsao_tempo.py
+    python clima.py
     ```
 
 6. Na interface gráfica que será aberta, clique no botão **"Buscar Previsão"** para atualizar a previsão do tempo e salvar os dados na planilha `temperatura.xlsx`.
