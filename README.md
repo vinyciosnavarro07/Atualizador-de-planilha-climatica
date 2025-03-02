@@ -27,7 +27,7 @@ Este projeto busca informações de previsão do tempo, como temperatura e umida
 
 3. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/vinyciosnavarro07/Atualizador-de-planilha-climatica.git
     ```
 
 4. Navegue até o diretório do projeto:
